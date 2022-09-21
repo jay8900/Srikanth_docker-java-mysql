@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.com/mixaverros88/dockerized-java-mysql-app.svg?branch=master)](https://travis-ci.com/mixaverros88/dockerized-java-mysql-app)
 
-# Dockerize java mysql example project
+
+# Dockerize java mysql project
 
 ![preview image](https://raw.githubusercontent.com/mixaverros88/docker-with-java-and-mysql/master/icons/docker_overview.JPG)
 This simple example combines 2 docker files and docker-compose file, one to spin up a mysql container and the other a java container.
