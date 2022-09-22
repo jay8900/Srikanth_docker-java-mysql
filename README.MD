@@ -12,7 +12,7 @@ Also you can find a network folder, which contains an sh file to create a networ
 ### Docker Compose
 At the root file run the following command 
 ```
-docker-compose up
+docker-compose up -d
 ```
 After visit the following url
 ```
